@@ -1,6 +1,6 @@
 # CarListApp.Maui
 
-This is an educational project for the Udemy course called [.NET MAUI Mobile App Development](https://www.udemy.com/course/net-maui-mobile-app-development/?referralCode=A56083F1D67F21799FBB&couponCode=APRIL2023) that allows users to manage a list of cars. The project contains a minimal API project and a .NET MAUI project. There are no API keys needed for this project. The app uses an SQLite database to store the car data. This project also features a Minimal API example and shows how to integrate a mobile app with an API. 
+This is an educational project for the Udemy course [.NET MAUI Mobile App Development](https://www.udemy.com/course/net-maui-mobile-app-development/?referralCode=A56083F1D67F21799FBB&couponCode=APRIL2023) that allows users to manage a list of cars. The project contains a minimal API project and a .NET MAUI project. There are no API keys needed for this project. The app uses an SQLite database to store the car data. This project also features a Minimal API example and shows how to integrate a mobile app with an API. 
 
 ## Installation
 
