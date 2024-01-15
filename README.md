@@ -48,7 +48,3 @@ To get started with the app, you will need to clone this repository to your loca
 git clone https://github.com/trevoirwilliams/CarListApp.Maui.git
 
 Then, open the solution file (`CarListApp.Maui.sln`) in Visual Studio and build the solution. The app should launch automatically in the emulator.
-
-## Contributing
-
-If you would like to contribute to the development of this app, please feel free to submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your changes.
